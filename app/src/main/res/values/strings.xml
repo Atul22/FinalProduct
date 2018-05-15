@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FinalProduct</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tv_shows_list">tvShowsList</string>
+    <string name="title_activity_movies_main">moviesMain</string>
+    <string name="title_activity_show_details">showDetails</string>
+    <string name="title_activity_show_trailer_list">showTrailerList</string>
+    <string name="title_activity_player">Player</string>
+    <string name="title_activity_up_coming_movies">upComingMovies</string>
+    <string name="title_activity_now_playing_movies">nowPlayingMovies</string>
+    <string name="title_activity_movie_details">movieDetails</string>
+    <string name="title_activity_new_trailers">newTrailers</string>
+    <string name="title_activity_movie_trailer_list">movieTrailerList</string>
+    <string name="title_activity_license">license</string>
+    <string name="title_activity_movie_category">movieCategory</string>
+    <string name="title_activity_genre">genre</string>
+    <string name="title_activity_movie_genre">movieGenre</string>
+</resources>
